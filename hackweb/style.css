@@ -1,0 +1,19 @@
+.block {
+  height: 100px;
+  background-color: rgb(122, 119, 115);
+  margin: 100px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.avata {
+  width: 200px;
+  height: 200px;
+  padding: 1px;
+  border: 1px solid white;
+  border-radius: 50%;
+  margin-left: 100px;
+  margin: -30px;
+  margin-top: -35px;
+}
